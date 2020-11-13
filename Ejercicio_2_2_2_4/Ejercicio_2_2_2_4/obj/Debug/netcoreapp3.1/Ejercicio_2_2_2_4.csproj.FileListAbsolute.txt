@@ -1,0 +1,4 @@
+E:\Programación\Ejercicio_2_2_2_4\Ejercicio_2_2_2_4\obj\Debug\netcoreapp3.1\Ejercicio_2_2_2_4.csprojAssemblyReference.cache
+E:\Programación\Ejercicio_2_2_2_4\Ejercicio_2_2_2_4\obj\Debug\netcoreapp3.1\Ejercicio_2_2_2_4.AssemblyInfoInputs.cache
+E:\Programación\Ejercicio_2_2_2_4\Ejercicio_2_2_2_4\obj\Debug\netcoreapp3.1\Ejercicio_2_2_2_4.AssemblyInfo.cs
+E:\Programación\Ejercicio_2_2_2_4\Ejercicio_2_2_2_4\obj\Debug\netcoreapp3.1\Ejercicio_2_2_2_4.csproj.CoreCompileInputs.cache
