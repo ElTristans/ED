@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EjercicioPrueba_4_4_6/1.0.0": {
+        "runtime": {
+          "EjercicioPrueba_4_4_6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjercicioPrueba_4_4_6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

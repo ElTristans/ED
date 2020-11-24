@@ -1,0 +1,13 @@
+E:\Programación\UnaSimplePrueba\UnaSimplePrueba\bin\Debug\netcoreapp3.1\UnaSimplePrueba.exe
+E:\Programación\UnaSimplePrueba\UnaSimplePrueba\bin\Debug\netcoreapp3.1\UnaSimplePrueba.deps.json
+E:\Programación\UnaSimplePrueba\UnaSimplePrueba\bin\Debug\netcoreapp3.1\UnaSimplePrueba.runtimeconfig.json
+E:\Programación\UnaSimplePrueba\UnaSimplePrueba\bin\Debug\netcoreapp3.1\UnaSimplePrueba.runtimeconfig.dev.json
+E:\Programación\UnaSimplePrueba\UnaSimplePrueba\bin\Debug\netcoreapp3.1\UnaSimplePrueba.dll
+E:\Programación\UnaSimplePrueba\UnaSimplePrueba\bin\Debug\netcoreapp3.1\UnaSimplePrueba.pdb
+E:\Programación\UnaSimplePrueba\UnaSimplePrueba\obj\Debug\netcoreapp3.1\UnaSimplePrueba.csprojAssemblyReference.cache
+E:\Programación\UnaSimplePrueba\UnaSimplePrueba\obj\Debug\netcoreapp3.1\UnaSimplePrueba.AssemblyInfoInputs.cache
+E:\Programación\UnaSimplePrueba\UnaSimplePrueba\obj\Debug\netcoreapp3.1\UnaSimplePrueba.AssemblyInfo.cs
+E:\Programación\UnaSimplePrueba\UnaSimplePrueba\obj\Debug\netcoreapp3.1\UnaSimplePrueba.csproj.CoreCompileInputs.cache
+E:\Programación\UnaSimplePrueba\UnaSimplePrueba\obj\Debug\netcoreapp3.1\UnaSimplePrueba.dll
+E:\Programación\UnaSimplePrueba\UnaSimplePrueba\obj\Debug\netcoreapp3.1\UnaSimplePrueba.pdb
+E:\Programación\UnaSimplePrueba\UnaSimplePrueba\obj\Debug\netcoreapp3.1\UnaSimplePrueba.genruntimeconfig.cache

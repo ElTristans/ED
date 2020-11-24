@@ -1,0 +1,13 @@
+E:\Programación\Ejemplo_04_05a\Ejemplo_04_05a\bin\Debug\netcoreapp3.1\Ejemplo_04_05a.exe
+E:\Programación\Ejemplo_04_05a\Ejemplo_04_05a\bin\Debug\netcoreapp3.1\Ejemplo_04_05a.deps.json
+E:\Programación\Ejemplo_04_05a\Ejemplo_04_05a\bin\Debug\netcoreapp3.1\Ejemplo_04_05a.runtimeconfig.json
+E:\Programación\Ejemplo_04_05a\Ejemplo_04_05a\bin\Debug\netcoreapp3.1\Ejemplo_04_05a.runtimeconfig.dev.json
+E:\Programación\Ejemplo_04_05a\Ejemplo_04_05a\bin\Debug\netcoreapp3.1\Ejemplo_04_05a.dll
+E:\Programación\Ejemplo_04_05a\Ejemplo_04_05a\bin\Debug\netcoreapp3.1\Ejemplo_04_05a.pdb
+E:\Programación\Ejemplo_04_05a\Ejemplo_04_05a\obj\Debug\netcoreapp3.1\Ejemplo_04_05a.csprojAssemblyReference.cache
+E:\Programación\Ejemplo_04_05a\Ejemplo_04_05a\obj\Debug\netcoreapp3.1\Ejemplo_04_05a.AssemblyInfoInputs.cache
+E:\Programación\Ejemplo_04_05a\Ejemplo_04_05a\obj\Debug\netcoreapp3.1\Ejemplo_04_05a.AssemblyInfo.cs
+E:\Programación\Ejemplo_04_05a\Ejemplo_04_05a\obj\Debug\netcoreapp3.1\Ejemplo_04_05a.csproj.CoreCompileInputs.cache
+E:\Programación\Ejemplo_04_05a\Ejemplo_04_05a\obj\Debug\netcoreapp3.1\Ejemplo_04_05a.dll
+E:\Programación\Ejemplo_04_05a\Ejemplo_04_05a\obj\Debug\netcoreapp3.1\Ejemplo_04_05a.pdb
+E:\Programación\Ejemplo_04_05a\Ejemplo_04_05a\obj\Debug\netcoreapp3.1\Ejemplo_04_05a.genruntimeconfig.cache
