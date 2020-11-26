@@ -1,0 +1,13 @@
+E:\Programación\Practica_2\Practica_2\bin\Debug\netcoreapp3.1\Practica_2.exe
+E:\Programación\Practica_2\Practica_2\bin\Debug\netcoreapp3.1\Practica_2.deps.json
+E:\Programación\Practica_2\Practica_2\bin\Debug\netcoreapp3.1\Practica_2.runtimeconfig.json
+E:\Programación\Practica_2\Practica_2\bin\Debug\netcoreapp3.1\Practica_2.runtimeconfig.dev.json
+E:\Programación\Practica_2\Practica_2\bin\Debug\netcoreapp3.1\Practica_2.dll
+E:\Programación\Practica_2\Practica_2\bin\Debug\netcoreapp3.1\Practica_2.pdb
+E:\Programación\Practica_2\Practica_2\obj\Debug\netcoreapp3.1\Practica_2.AssemblyInfoInputs.cache
+E:\Programación\Practica_2\Practica_2\obj\Debug\netcoreapp3.1\Practica_2.AssemblyInfo.cs
+E:\Programación\Practica_2\Practica_2\obj\Debug\netcoreapp3.1\Practica_2.csproj.CoreCompileInputs.cache
+E:\Programación\Practica_2\Practica_2\obj\Debug\netcoreapp3.1\Practica_2.dll
+E:\Programación\Practica_2\Practica_2\obj\Debug\netcoreapp3.1\Practica_2.pdb
+E:\Programación\Practica_2\Practica_2\obj\Debug\netcoreapp3.1\Practica_2.genruntimeconfig.cache
+E:\Programación\Practica_2\Practica_2\obj\Debug\netcoreapp3.1\Practica_2.csprojAssemblyReference.cache

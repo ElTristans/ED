@@ -6,67 +6,53 @@ namespace UnaSimplePrueba
     {
             static void Main(string[] args)
             {
-                int a, b;
-                Console.Write("\n" + "Introduce el 1er número: ");
-                a = int.Parse(Console.ReadLine());
-                Console.Write("\n" + "Introduce el 2do número: ");
-                b = int.Parse(Console.ReadLine());
+            string secreteWord = "Arizona";
 
-                Console.Write("\n" + "Seleccione una opción: " + "\n" + "\n");
-                Console.Write("\n" + "     1º) Suma" + "\n" + "     2º) Resta" + "\n" + "     3º) Multiplicación" + "\n" + "     4º) División" + "\n" + "     5º) Salir del Programa" + "\n" + "\n");
+            //have a dash array equal to the number of the letters of the secret word
+            char[] a = new char[secreteWord.Length];
 
-                switch (Console.Read())
+            for (int i = 0; i < a.Length; i++)
+            {
+                a[i] = '_';
+            }
 
+            // Tell the user the number of letters through the dashes
+            for (int i = 0; i < a.Length; i++)
+            {
+                Console.Write(a[i] + "  ");
+            }
+
+            // ask the user to guess
+            Console.WriteLine();
+
+            int count = 0;
+            do
+            {
+                Console.WriteLine("Enter your guess letter");
+                char input = Console.ReadLine().ToCharArray()[0];
+
+                for (int i = 0; i < secreteWord.Length; i++)
                 {
-                    case '1':
-                        Console.Write("\n" + "    Suma = " + suma(a, b));
-                        break;
+                    //if the user guessed right, replace the correct dash and display to the user
+                    if (secreteWord[i] == input)
+                    {
+                        count++; //update the count to check when to exit
+                        a[i] = input;  //here if the user guess correct, we replace the dash with the input
 
-                    case '2':
-                        Console.Write("\n" + "    Resta = " + resta(a, b));
-                        break;
-
-                    case '3':
-                        Console.Write("\n" + "    Multiplicación = " + multiplicacion(a, b));
-                        break;
-
-                    case '4':
-                        Console.Write("\n" + "    División = " + division(a, b));
-                        break;
-
-                    case '5':
-                        Console.Write("\n" + "      °º¤ø,¸¸,ø¤º°`°º¤ø,¸( Hasta la próxima )¸,ø¤º°`°º¤ø,¸,ø¤º°");
-                        break;
+                        //now we display the dash array after it is modified
+                        for (int j = 0; j < a.Length; j++)
+                        {
+                            Console.Write(a[j] + " ");
+                        }
+                    }
                 }
-            /*Declarar los numeros*/
-            static int suma(int a, int b)
-            /*Las funciones o "programas" de la calculadora*/
-            {
-                int suma = a + b;
-                return suma;
+                Console.WriteLine();
             }
 
-            static int resta(int a, int b)
-            {
-                int resta = a - b;
-                return resta;
-            }
-
-            static int multiplicacion(int a, int b)
-            {
-                int multi = a * b;
-                return multi;
-            }
-
-            static int division(int a, int b)
-            {
-                int divi = a / b;
-                return divi;
-            }
-
-            /*esto es para dejar el resultado hasta que pulses una tecla*/
-
-            Console.ReadKey();
-            }
+            while (count < a.Length);
+            Console.WriteLine("You guessed it right");
+            Console.ReadLine();
         }
     }
+}
+  
